@@ -1,0 +1,9 @@
+C:\Users\malek boudiaf\Documents\PSoC Creator\Workspace03\BLE.cydsn\BLE.cyprj|a8126c80-9277-4513-9748-4448a9dc3b9b
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|740887bd-145b-4336-8196-57c5f93f0ede
+C:\Users\malek boudiaf\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|75847b7a-a23c-46f5-9fcb-ce04f8e0b013
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|57f76a0a-bb41-4f48-affd-92145ffe1bfc
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|8606fadf-e221-41e6-999e-256730136ab0
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|ae2dc169-5654-4737-8499-e827279b9e71
+C:\Users\malek boudiaf\Documents\PSoC Creator\Workspace03\smart_diaper.cydsn\smart_diaper.cyprj|de2a1def-0e05-4264-ae0e-04be7877857f
+C:\Users\malek boudiaf\Documents\PSoC Creator\Workspace03\Design01.cydsn\Design01.cyprj|4c2fdf7d-243c-4a3a-93ad-9dae37a81c05
+C:\Users\malek boudiaf\Documents\PSoC Creator\Workspace03\CE212736_PSoC6BLE_FindMe01.cydsn\CE212736_PSoC6BLE_FindMe01.cyprj|f271806b-93d9-4179-99c5-f1541cb9176f

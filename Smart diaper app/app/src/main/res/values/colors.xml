@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#ff6600</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="green">#00FF00</color>
+    <color name="vub_orange">#ff6600</color>
+    <color name="gradient_start_orange">#FFAF7A</color>
+    <color name="button_green">#1abc9c</color>
+    <color name="button_green_start">#44cfb3</color>
+    <color name="vub_blue_light">#4172D1</color>
+    <color name="vub_blue">#06389a</color>
+</resources>
